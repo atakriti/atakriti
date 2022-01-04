@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## iam Anwar 
+### Learning Web Dev 
+
+#### Email: anwart256@gmail.com
 <!--
 **atakriti/atakriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
