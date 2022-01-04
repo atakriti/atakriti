@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## iam Anwar 
+## i am Anwar 
 ### Learning Web Dev 
 
 #### Email: anwart256@gmail.com
