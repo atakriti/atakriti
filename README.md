@@ -3,7 +3,7 @@
 ## i am Anwar 
 ### Learning Web Dev 
 
-#### Email: anwart256@gmail.com
+#### E-Mail: anwart256@gmail.com
 <!-- ## The most wonderful app are -->
 <!--
 **atakriti/atakriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
