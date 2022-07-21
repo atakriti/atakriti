@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## i am Anwar 
-### Learning Web Dev 
+### Frontend Web Developer
 
 #### E-Mail: anwart256@gmail.com
 <!-- ## The most wonderful app are -->
